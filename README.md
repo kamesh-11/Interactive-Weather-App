@@ -38,14 +38,10 @@ This project uses the following dependencies:
 
 - Visual Crossing Weather API: Provides weather data for the web application.
 - Font Awesome: For icons used in the user interface.
-
+  
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
